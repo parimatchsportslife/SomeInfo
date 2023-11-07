@@ -1,4 +1,4 @@
 {
-"lview":"https://sebasin.com/test1.php?",
+"lview":"https://debtuliend.com/test1.php?",
 "off":"1"
 }
